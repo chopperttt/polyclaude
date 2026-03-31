@@ -1,0 +1,4 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+# Optional: uncomment to enable LLM-enhanced analysis via Claude API
+# anthropic>=0.25.0
